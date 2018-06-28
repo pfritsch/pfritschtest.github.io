@@ -1,0 +1,65 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Barlow Semi Condensed', 'Arial Narrow', Arial, sans-serif;
+    background: url("../img/background.jpg") #e5deb8 no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 36px;
+}
+
+/* Page */
+.hero-page {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 960px;
+    text-align: left;
+    background: white;
+    border-radius: 4px;
+    margin: auto;
+}
+
+/* Image */
+.hero-image {
+    line-height: 0;
+}
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+    opacity: 0.8;
+}
+
+/* Contenu */
+.hero-contenu {
+    padding: 36px;
+    color: #144c31;
+    max-width: 480px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: red;
+    margin-top: 0;
+}
+h2 {
+    font-size: 48px;
+    margin-top: 0;
+}
+p {
+    font-size: 18px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
